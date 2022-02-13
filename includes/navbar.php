@@ -88,11 +88,11 @@ else
   </div>    -->
 
   <li class="nav-item">
-          <a class="nav-link" href="index.php">Les missions</a>
+          <a class="nav-link" href="index.php">missions</a>
          </li>
     
          <li class="nav-item">
-          <a class="nav-link" href="Stash.php">Les planques</a>
+          <a class="nav-link" href="Stash.php">planques</a>
          </li>
 
 
